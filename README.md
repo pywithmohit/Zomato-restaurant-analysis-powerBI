@@ -33,14 +33,10 @@ Custom red/Zomato-branded theme for a polished, presentation-ready look
 <img width="1117" height="617" alt="IMAGE-2" src="https://github.com/user-attachments/assets/3ff94bab-32b9-4a78-94c4-8686a10f386b" />
 
 
-🔗 Live Dashboard
-
-(Add your published Power BI public link here, if published)
-
 🎯 Key Takeaway
 
 Most of the real work in this project wasn't the visuals — it was the decisions behind the data: how to handle missing coordinates, whether to standardize boolean fields, and how to bridge lookup tables cleanly. This project was built to practice thinking like a data analyst, from raw messy data to a dashboard a decision-maker could actually use.
 
 👤 Author
 
-(Add your name and LinkedIn/portfolio link here)
+(Mohit Yadav and LinkedIn - https://www.linkedin.com/in/pywithmohit/ )
